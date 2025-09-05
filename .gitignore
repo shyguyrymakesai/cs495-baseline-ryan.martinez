@@ -1,0 +1,29 @@
+﻿# General
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+ehthumbs.db
+Icon?
+Desktop.ini
